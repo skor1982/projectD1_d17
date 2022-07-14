@@ -1,0 +1,5 @@
+#We don't want our secrets to be leaked
+variables.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
